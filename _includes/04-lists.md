@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. :palm_tree: Vacation
+2. :santa: Holidays
+3. :moneybag: Money
